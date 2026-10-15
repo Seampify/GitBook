@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Seampify
+  structure:
+    - type: space
+      key: space-1
+      title: Seampify Knowledge Centre
+      path: seampify-knowledge-centre
+      default: true
+      content:
+        directory: ./seampify-knowledge-centre
