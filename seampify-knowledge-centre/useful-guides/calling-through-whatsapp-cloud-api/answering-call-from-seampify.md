@@ -43,7 +43,7 @@ Once a call is established from your customer, it will assigned to the agents ba
 Once a call established, you may see the call status from the Chat page:\
 ![](<../../.gitbook/assets/image (37).png>)
 
-* <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line"> : Click this to mute and unmute your mic
+* <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> : Click this to mute and unmute your mic
 * <img src="../../.gitbook/assets/image (33).png" alt="" data-size="line"> : Click this to open the conversation chat page to message the customer
 * <img src="../../.gitbook/assets/image (36).png" alt="" data-size="line"> : Click this to terminate the call
 
@@ -54,8 +54,6 @@ Once you have terminated the call, you will be able to see the below status with
 You can also view from the Settings > Call Logs and export from there.
 
 <figure><img src="../../.gitbook/assets/image (906).png" alt=""><figcaption></figcaption></figure>
-
-
 
 If you have missed a call, you will be able to see the below status and a button to callback using [Business-Initiated Calls](business-initiated-calls.md)
 

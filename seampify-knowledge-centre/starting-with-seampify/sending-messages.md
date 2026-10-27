@@ -8,8 +8,6 @@ There are 3 ways to initiate a conversation with your customers:
 
 For this guide, we shall look into **Bulk Broadcast via Campaign.**
 
-
-
 ## Step 1: Create Template Messages
 
 Before initiating a conversations, you will need to submit a Template Message to Meta for approval.
@@ -44,13 +42,11 @@ Once submitted for approval, you will see the newly created template message in 
 {% endstep %}
 {% endstepper %}
 
-
-
 ## Step 2: Perform a Campaign <a href="#step-2-perform-a-campaign" id="step-2-perform-a-campaign"></a>
 
 {% stepper %}
 {% step %}
-### Start a Campaign  <a href="#start-a-campaign" id="start-a-campaign"></a>
+### Start a Campaign <a href="#start-a-campaign" id="start-a-campaign"></a>
 
 After template approval, go to the **Campaign module**. Then, click on "+ **Create Campaign"**
 
@@ -82,13 +78,9 @@ With WhatsApp, you can broadcast at any time, whereas on Facebook and Instagram,
 
 Here, you can upload your contact list using CSV file or Filter Existing Database.
 
-
-
 **Upload Contacts:**
 
 * Click <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FtL3npYtDC0kw9OqAV9yC%2Fimage.png?alt=media&#x26;token=346afded-38a2-4896-a0f2-f78b5fc6f74a" alt="" data-size="line"> then fill up the informations.
-
-
 
 **Filter Existing Database**:
 
@@ -97,13 +89,9 @@ Here, you can upload your contact list using CSV file or Filter Existing Databas
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FlFNDhkdVi9YeVClJ9sNS%2Fimage.png?alt=media&#x26;token=5515d59f-f5ce-4bb0-9539-3238d4f04b24" alt=""><figcaption></figcaption></figure>
 
-
-
 **Default Behavior:**
 
 * If no filters are applied, the broadcast will be sent to **all contacts** in the system.
-
-
 
 After setting the filters, click "Submit" to apply them. The filtered contacts based on your selected criteria will appear at the bottom. If everything looks correct, click "Next" to proceed.
 {% endstep %}
@@ -111,7 +99,7 @@ After setting the filters, click "Submit" to apply them. The filtered contacts b
 {% step %}
 ### Select Template <a href="#select-template" id="select-template"></a>
 
-Choose the template that was approved by Meta from the dropdown menu. You can also create a new one by click "Create Template" and it will direct you to [Template Message page.](https://app.gitbook.com/o/MNzhJNa8nN0i1qjwYR8P/s/TDj39bRN1xx5RG7VtqzP/~/changes/17/starting-with-seampify/sending-messages/~/overview#step-1-create-template-messages)​
+Choose the template that was approved by Meta from the dropdown menu. You can also create a new one by click "Create Template" and it will direct you to [Template Message page.](https://app.gitbook.com/s/TDj39bRN1xx5RG7VtqzP/starting-with-seampify/sending-messages#step-1-create-template-messages)​
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FoSGW0b22o2Fd7P60jYSY%2Fimage.png?alt=media&#x26;token=f9adafe8-ca56-4764-9350-b0b56d331519" alt=""><figcaption></figcaption></figure>
 
@@ -232,8 +220,6 @@ Enable this option to maximize delivery rates.
 As a reminder, it is recommended to send messages to users who have [opted-in](https://developers.facebook.com/docs/whatsapp/overview/getting-opt-in) to receiving messages from you.
 {% endhint %}
 
-
-
 There are other ways to send messages to your contacts, click to know more.
 
 {% content-ref url="../seampifys-modules/chat/" %}
@@ -243,4 +229,3 @@ There are other ways to send messages to your contacts, click to know more.
 {% content-ref url="../seampifys-modules/drip-campaign/" %}
 [drip-campaign](../seampifys-modules/drip-campaign/)
 {% endcontent-ref %}
-

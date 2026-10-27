@@ -1,14 +1,10 @@
 # Out of Office Automation
 
-This guide will help you understand and use the Out Of Office Automation template for replying a dedicated message during inside and outside the business working hours.&#x20;
-
-
+This guide will help you understand and use the Out Of Office Automation template for replying a dedicated message during inside and outside the business working hours.
 
 Before you import the automation, you will need to define your Working Hour. [Click to know the steps the setup working hour.](out-of-office-automation.md#defining-your-business-working-hour)
 
 If you have done setup, you may refer to the [step to import Out Of Office Automation.](out-of-office-automation.md#step-2-importing-the-out-of-office-automation)
-
-
 
 ## Step 1: Defining your Business Working Hour
 
@@ -34,8 +30,6 @@ If you want to declare holidays, click the Holidays field and then select the da
 
 Once added Working Hours and Holidays, click **Apply**.
 
-
-
 ### Step 2: Importing the Out Of Office Automation
 
 {% stepper %}
@@ -51,10 +45,10 @@ Once added Working Hours and Holidays, click **Apply**.
 {% step %}
 #### Search for the Automation Template
 
-* Click on "`General"` and search for the Automation named Out Of Office Auto Reply.&#x20;
-* Click on  "`Preview"` to load the automation
+* Click on "`General"` and search for the Automation named Out Of Office Auto Reply.
+* Click on "`Preview"` to load the automation
 
-<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -77,7 +71,7 @@ There's no need to edit the Event section.
 {% step %}
 #### Customizing the Messages
 
-* Double click on both of the `Auto Reply Buttons Node`.&#x20;
+* Double click on both of the `Auto Reply Buttons Node`.
 
 <figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,6 +91,6 @@ You will need to update one node at a time.
 #### Save and Run the Automation
 
 Once you have done setup, click the Save button and ensure to Play the automation.\
-![](<../../../.gitbook/assets/image (118).png>)<br>
+![](<../../../.gitbook/assets/image (117).png>)<br>
 {% endstep %}
 {% endstepper %}

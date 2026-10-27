@@ -10,8 +10,6 @@ Your business dictates when calls can be received by configuring business callin
 
 Once a call is established, there is about 30 to 60 seconds for the business to accept the phone call. If the business does not respond, the call is terminated on the WhatsApp user side with a "Not Answered" notification.
 
-
-
 ## Promoting your WhatsApp Call
 
 After you adopt Cloud API Calling features, you can raise awareness with your customers in two core ways:
@@ -19,20 +17,16 @@ After you adopt Cloud API Calling features, you can raise awareness with your cu
 * [Send them a message with a WhatsApp call button](user-initiated-calls.md#send-interactive-message-with-a-whatsapp-call-button)
 * [Embed a calling deep link into your brand surfaces (website, application, etc)](user-initiated-calls.md#calling-deep-links)
 
-
-
 ### Send message with a WhatsApp Call Button <a href="#send-interactive-message-with-a-whatsapp-call-button" id="send-interactive-message-with-a-whatsapp-call-button"></a>
 
 There are 2 types of message where you can allow your customer to perform a call to your number:
 
-* Interactive message - a free form interactive message with a WhatsApp call button during a [customer service window](../conversation-through-whatsapp-cloud-api/understanding-24-hour-customer-service-window.md)
-* Template message - marketing or utility template message with a WhatsApp call button outside the [customer service window](../conversation-through-whatsapp-cloud-api/understanding-24-hour-customer-service-window.md)&#x20;
+* Interactive message - a free form interactive message with a WhatsApp call button during a [customer service window](../conversation-through-whatsapp-cloud-api-1/understanding-24-hour-customer-service-window.md)
+* Template message - marketing or utility template message with a WhatsApp call button outside the [customer service window](../conversation-through-whatsapp-cloud-api-1/understanding-24-hour-customer-service-window.md)
 
 When a WhatsApp user clicks the call button, it initiates a WhatsApp call to the business number that sent the message.
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Creating a calling deep links <a href="#calling-deep-links" id="calling-deep-links"></a>
 
@@ -66,8 +60,6 @@ Since deep links can be made per business phone number, you can use calling deep
 The `wa.me/call/<BUSINESS_PHONE_NUMBER>` format is easy to copy, paste, and send, and does not require you to make a template in Business Manager.
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Frequently Asked Question about User-initiated Calls
 

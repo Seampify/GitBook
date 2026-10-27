@@ -63,15 +63,13 @@ For the elements that collecting answer (e.g. Short Answer, Date Picker, Multipl
 For **Collect Image** and **Collect Document** content, you can only choose either one per WhatsApp Flow. If you wish to use both, suggest to create 2 different flow.
 {% endhint %}
 
-
-
 <figure><img src="../../.gitbook/assets/image (738).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Save and Preview**
 
-* Click **Save as Draft** to save your progress.&#x20;
+* Click **Save as Draft** to save your progress.
 
 <div align="left"><figure><img src="../../.gitbook/assets/image (732).png" alt="" width="114"><figcaption></figcaption></figure></div>
 
@@ -109,16 +107,14 @@ It is advisable to preview the form as the form **cannot be edited after publish
 {% endstep %}
 {% endstepper %}
 
-
-
 ## How to Send a Static Flow
 
 Simple Flows can be shared with your audience through two main methods:
 
-1. [Sending via Chat ](static-flow.md#sending-via-chat)
+1. [Sending via Chat](static-flow.md#sending-via-chat)
 2. [Sending via Automation](static-flow.md#sending-via-automation)
 
-### Sending via Chat&#x20;
+### Sending via Chat
 
 1. Navigate to the **"Chat"** tab in your WhatsApp Business platform.
 2. Select the contact you want to send the message to by clicking on their name.
@@ -131,8 +127,6 @@ Simple Flows can be shared with your audience through two main methods:
 {% hint style="warning" %}
 If a 24 Hour Customer Service window is not opened, select Send Template Message then use [Sending via Automation](static-flow.md#sending-via-automation) method to send the WhatsApp form when the contact click on your template message's button.
 {% endhint %}
-
-
 
 <figure><img src="../../.gitbook/assets/image (727).png" alt="" width="353"><figcaption></figcaption></figure>
 
@@ -147,11 +141,9 @@ If a 24 Hour Customer Service window is not opened, select Send Template Message
 10. Click **"Send"** to share the Static Flow with the customer.
     * The customer will receive the message with the button and can interact with the flow directly in the chat.
 
-
-
 ### Sending via Automation
 
-Simple Flows can be integrated into automated workflows for seamless customer interactions.&#x20;
+Simple Flows can be integrated into automated workflows for seamless customer interactions.
 
 **Steps:**
 
@@ -160,7 +152,7 @@ Simple Flows can be integrated into automated workflows for seamless customer in
 * Create a new automation.
 * In the automation builder, drag and drop the **Auto Reply Buttons/Options/Products** node into your flow.
 
-<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-27December2024-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/832a353526fe4914a40044bd5542efe6-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 2. **Customize the Node**
 
@@ -172,7 +164,7 @@ Simple Flows can be integrated into automated workflows for seamless customer in
 * Add a **Label** to the button (e.g., “Start Form” or “Continue”).
 * Click **Update Node** to save the changes.
 
-<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20243-ezgif.com-video-to-gif-converter (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20242-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 ## Components and Limitations
 
@@ -433,4 +425,3 @@ Example:
 | Max # of images                   | 3                   |
 | Max # of ImageCarousel per screen | 2                   |
 | Max # of ImageCarousel per Flow   | 3                   |
-

@@ -4,21 +4,17 @@ The Calling API supports making calls to WhatsApp users from your business.
 
 The user dictates when calls can be received by [granting call permissions to the business phone number](business-initiated-calls.md#obtain-user-call-permissions).
 
-
-
 ## Obtain User Call Permissions <a href="#part-1--obtain-permission-to-call-the-whatsapp-user" id="part-1--obtain-permission-to-call-the-whatsapp-user"></a>
 
 If you want to place a call to a WhatsApp user, your business must receive user permission first. When a WhatsApp user grants call permissions, they are always temporary **for 7 calendar days (168 hours).**
 
 You can obtain calling permission from a WhatsApp user in any of the following ways:
 
-1. [**Request a call permission request to the user**](business-initiated-calls.md#request-a-call-permission-request-to-the-user)&#x20;
-2. [**Callback permission is provided by the WhatsApp user** ](business-initiated-calls.md#callback-permission-is-provided-by-the-whatsapp-user)
+1. [**Request a call permission request to the user**](business-initiated-calls.md#request-a-call-permission-request-to-the-user)
+2. [**Callback permission is provided by the WhatsApp user**](business-initiated-calls.md#callback-permission-is-provided-by-the-whatsapp-user)
 3. When a WhatsApp user calls you, regardless of if you accept the call or not
 
-&#x20;
-
-### **Request a call permission request to the user**&#x20;
+### **Request a call permission request to the user**
 
 A call permission request message can be sent to users in one of the following ways:
 
@@ -35,7 +31,7 @@ Firstly, setup a call permission template message by going to [Manage Template](
 Call Permission Request template message is availiable under Marketing and Utility category.
 {% endhint %}
 
-Once the template message is approved, you may use it to sent to your contact. Go to Chat and look for the contact in the WhatsApp Cloud API Channel, you will see a **Request Call Permission** button on top right.&#x20;
+Once the template message is approved, you may use it to sent to your contact. Go to Chat and look for the contact in the WhatsApp Cloud API Channel, you will see a **Request Call Permission** button on top right.
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,14 +40,12 @@ Click on the Request Call Permission to choose the templates message. Setup the 
 <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**Note:** Call permission request template messages are subject to [messaging charges](../conversation-through-whatsapp-cloud-api/whatsapp-conversation-based-pricing/)
+**Note:** Call permission request template messages are subject to [messaging charges](../conversation-through-whatsapp-cloud-api-1/whatsapp-conversation-based-pricing/)
 {% endhint %}
 
 This is what your customer will see and allow the permission to you.
 
 <figure><img src="../../.gitbook/assets/Allow call.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 #### **2. Send a free form message**
 
@@ -70,27 +64,21 @@ This is what your customer will see and allow the permission to you.
 
 <figure><img src="../../.gitbook/assets/Allow call.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-### **Callback permission is provided by the WhatsApp user**&#x20;
+### **Callback permission is provided by the WhatsApp user**
 
 The WhatsApp user automatically provides temporary call permissions by placing a call to the business. The [callback setting must be enabled](./#callback-permissions) on the business phone number.<br>
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Performing a Business-initiated Calls <a href="#limits-per-business-whatsapp-user-pair" id="limits-per-business-whatsapp-user-pair"></a>
 
-The WhatsApp user may approve, decline, or simply not respond to a call permission request. Once you have user permission,  you will see the call button and the permission duration on the top right and you may click to perform a Business-Initiated Call with the Contact.
+The WhatsApp user may approve, decline, or simply not respond to a call permission request. Once you have user permission, you will see the call button and the permission duration on the top right and you may click to perform a Business-Initiated Call with the Contact.
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Business-initiated calls is subject to [Calling API Pricing.](calling-api-pricing.md)
 {% endhint %}
-
-
 
 ## Limits (Per business + WhatsApp user pair) <a href="#limits-per-business-whatsapp-user-pair" id="limits-per-business-whatsapp-user-pair"></a>
 
@@ -110,13 +98,9 @@ When your business sends a call request on WhatsApp, the customer is presented w
 * **Allow temporarily:** This grants permission for exactly 7 calendar days (168 hours). After this period expires, your business must send a new permission request to initiate another call.
 * **Not at this time:** This declines the current request. Your business will not be able to initiate a call, and you should wait for a reasonable period or a new customer interaction before requesting permission again to avoid being flagged for spam.
 
-
-
 ## Call Permission Request Basics <a href="#call-permission-request-basics" id="call-permission-request-basics"></a>
 
 **The WhatsApp user is in control.** Even if the user provides calling permission, they can revoke that granted permission request at any time. Conversely, if the user declines a permission request, they can still grant calling permission, up until the permission request expires.
-
-
 
 **A call permission request expires** when any of the following occurs:
 
@@ -131,8 +115,6 @@ When your business sends a call request on WhatsApp, the customer is presented w
 * 7 days after the permission was delivered if the consumer does not respond to the request
 
 <figure><img src="../../.gitbook/assets/image (14).png" alt="" width="179"><figcaption></figcaption></figure>
-
-
 
 ## Call Permission Request Limits
 
@@ -152,8 +134,6 @@ To ensure an optimal user experience around business initiated calling, the foll
     * 4 consecutive unanswered calls result in an approved permission being automatically revoked. The user may again update this if they so choose.
 
     <figure><img src="../../.gitbook/assets/4 consecutive unasnwered.jpg" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Frequently Asked Question about Business-initiated Calls
 

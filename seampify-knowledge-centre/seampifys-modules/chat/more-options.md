@@ -41,7 +41,7 @@ Go to the drop down button beside the Conversation Status, then select either,
 
 ## Other Functions <a href="#read-status" id="read-status"></a>
 
-* **Mark as Blacklist** - You may mark contact blacklist here. Once blacklisted, the system will not send any sort of [business-initiated messages (Template Message)](../../useful-guides/conversation-through-whatsapp-cloud-api/understanding-whatsapp-message-template/). You are still able to receive incoming messages and reply manually during the [24 Hour Customer Service Window](../../useful-guides/conversation-through-whatsapp-cloud-api/understanding-24-hour-customer-service-window.md).
+* **Mark as Blacklist** - You may mark contact blacklist here. Once blacklisted, the system will not send any sort of [business-initiated messages (Template Message)](../../useful-guides/conversation-through-whatsapp-cloud-api-1/understanding-whatsapp-message-template/). You are still able to receive incoming messages and reply manually during the [24 Hour Customer Service Window](../../useful-guides/conversation-through-whatsapp-cloud-api-1/understanding-24-hour-customer-service-window.md).
 * Assign Contact
 * Push Chat to Queue
 * Unassign

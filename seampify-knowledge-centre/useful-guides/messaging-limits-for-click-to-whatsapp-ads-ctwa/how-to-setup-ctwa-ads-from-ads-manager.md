@@ -1,6 +1,6 @@
 # How to Setup CTWA ads from Ads Manager
 
-Click to WhatsApp Ads (CTWA) is a created ads that can direct your customers to your Business WhatsApp number.&#x20;
+Click to WhatsApp Ads (CTWA) is a created ads that can direct your customers to your Business WhatsApp number.
 
 Before you can create an ads to your dedicated WhatsApp number that is connected to Seampify, make sure you have your WhatsApp number that is already connected to your Facebook page or business portfolio.\
 \
@@ -77,13 +77,13 @@ Once the Campaign has done setup, click **Next**.
 
 ## Step 3: Create your Ads set.
 
-Now, you need to update your Ads set where you can design how your ads will look like here.&#x20;
+Now, you need to update your Ads set where you can design how your ads will look like here.
 
 ### Setup Ad Name
 
 First, setup your Ad Name.
 
-<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 ### Setup Ad Setup
 
@@ -98,7 +98,7 @@ Then, select Set up creatives and choose your media for the ads.\
 
 Check and edit your Ads crop placement (if need to).
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 Add Text to your visual.\
 ![](<../../.gitbook/assets/image (69).png>)
@@ -128,7 +128,5 @@ You can see the preview for the ads under **Ads Preview**.
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 Once you are satisfied with it, you can press **Publish**.
-
-
 
 Next, [learn how to develop an auto reply for your ads.](how-to-trigger-automation-from-ctwa-ads.md)<br>

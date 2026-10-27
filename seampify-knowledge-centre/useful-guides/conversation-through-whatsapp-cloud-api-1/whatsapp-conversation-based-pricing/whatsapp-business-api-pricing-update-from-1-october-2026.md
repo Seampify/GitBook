@@ -1,8 +1,12 @@
 # WhatsApp Business API Pricing Update From 1 October 2026
 
-Meta is introducing an important update to the WhatsApp Business Platform pricing model from **1 October 2026**.
+Effective **1 October 2026**, Meta introduced changes to the WhatsApp Business Platform pricing model.
 
-The biggest change is that **Service messages — normal replies sent through the WhatsApp Business API within the 24-hour customer service window — will move to a per-message charging model.**
+The biggest change is that **Service messages — regular replies sent through the WhatsApp Business API within the 24-hour customer service window — are now charged per delivered message once the monthly free allowance is used.**
+
+Each business phone number receives **1,000 free Service messages per month**, with charges applying from the 1,001st delivered Service message onwards.
+
+Unused free messages do not carry over to the following month.
 
 However, Meta has also announced a new monthly free allowance:
 
@@ -24,22 +28,22 @@ During this window, businesses can send normal non-template replies, known as **
 
 Until 30 September 2026, these Service messages are free from Meta messaging charges.
 
-From **1 October 2026**, Meta will introduce per-message charging for Service messages.
+Since 1 October 2026, Meta has charged for Service messages after the monthly free allowance is exhausted.
 
 However, the first **1,000 Service messages per business phone number each month will remain free**.
 
 #### At a glance
 
-| Message Type                                         | Until 30 Sep 2026 | From 1 Oct 2026 |
-| ---------------------------------------------------- | ----------------- | --------------- |
-| Incoming customer message                            | Free              | Free            |
-| First 1,000 Service messages per phone number/month  | Free              | **Free**        |
-| Service message after the first 1,000                | Free              | **Charged**     |
-| Utility message within 24-hour window                | Free              | **Charged**     |
-| Utility message outside 24-hour window               | Charged           | Charged         |
-| Marketing message                                    | Charged           | Charged         |
-| Authentication message                               | Charged           | Charged         |
-| Eligible 72-hour Click-to-WhatsApp free entry window | Free              | Remains free    |
+| Message Type                                                | Until 30 Sep 2026 | From 1 Oct 2026 |
+| ----------------------------------------------------------- | ----------------- | --------------- |
+| Incoming Customer Message                                   | Free              | Free            |
+| First 1,000 Service Messages per Phone number per Month     | Free              | **Free**        |
+| Service Message After the First 1,000                       | Free              | **Charged**     |
+| Utility Message Within 24-hour Window                       | Free              | **Charged**     |
+| Utility Message Outside 24-hour Window                      | Charged           | Charged         |
+| Marketing Message                                           | Charged           | Charged         |
+| Authentication Message                                      | Charged           | Charged         |
+| Eligible Click-to-WhatsApp Free Entry Window (up to 7 days) | Free              | Remains free    |
 
 An important distinction is that the **1,000 free monthly allowance applies specifically to Service messages**.
 
@@ -91,7 +95,7 @@ In other words:
 
 ***
 
-### Why Is WhatsApp Changing Its Business Messaging Model?
+### Why is WhatsApp Changing Its Business Messaging Model?
 
 Meta has not provided a specific public explanation for the October Service message pricing change. However, Meta has been progressively introducing measures aimed at improving the quality and relevance of business messaging, including stronger controls around marketing messages, customer opt-ins and the quality of business conversations.
 
@@ -135,30 +139,30 @@ Businesses that stay within the 1,000 free Service messages per phone number eac
 
 ***
 
-## Important: Ensure Your Payment Method Is Set Up Before 30 September 2026
+## Important: Ensure Your Payment Method Is Set Up
 
 {% hint style="warning" %}
-Businesses using the WhatsApp Business Platform should also ensure that a **valid payment method is on file for their WhatsApp Business Account (WABA) by 30 September 2026**.
+Businesses using the WhatsApp Business Platform should ensure that a valid payment method is configured for their WhatsApp Business Account (WABA).
 {% endhint %}
 
-**As your WhatsApp Business Solution Provider, Seampify would like to highlight an important Meta requirement: a valid payment method must be on file for the applicable WhatsApp Business Account(s) by 30 September 2026.**
+Since **1 October 2026**, Meta has charged for Service messages after the first 1,000 free messages per business phone number each month.
 
-If no valid payment method is available, Service messages may stop being delivered once Service message charging begins on 1 October 2026.
-
-To avoid any disruption to customer service conversations, you should review and add their payment method **before 30 September 2026**.
+Without a valid payment method or applicable billing arrangement, chargeable messages may fail to be delivered.
 
 **Action required:**
 
-1. Log in to your Meta Business account.
-2. Open your WhatsApp Business Account billing/payment settings.
-3. Confirm that a valid payment method has been added.
-4. If you manage multiple WhatsApp Business Accounts, ensure the required payment setup is completed for each applicable account.
+1. Log in to your Meta Business Account.
+2. Open your WhatsApp Business Account's billing or payment settings.
+3. Confirm that a valid payment method or applicable billing arrangement is in place.
+4. If you manage multiple WhatsApp Business Accounts, review the payment setup for each applicable account.
 
-You may refer to Setting up Payment Method guide [here](../../../starting-with-seampify/setting-up-payment-method.md)
+For step-by-step instructions, refer to [Setting Up Payment Method](https://seampify.gitbook.io/seampify/starting-with-seampify/setting-up-payment-method).
+
+**Note:** Meta's WhatsApp messaging charges are separate from your Seampify subscription or platform fees.
 
 This payment requirement relates to **Meta's WhatsApp Business Platform messaging charges** and is separate from your Seampify subscription or platform fees.
 
-**Don't wait until 1 October to complete this setup.** If the payment method is missing when the new charging model takes effect, your business may experience disruption to outgoing Service messages.
+**Important:** Ensure a valid payment method is configured to avoid potential disruptions to chargeable WhatsApp messages.
 
 ***
 
@@ -295,11 +299,13 @@ It should be to improve the **business value generated from every message**.
 
 ### 6. Make Better Use of Click-to-WhatsApp
 
-Eligible conversations initiated through **Click-to-WhatsApp advertisements or Facebook Page call-to-action buttons** continue to benefit from Meta's **72-hour free entry point window**.
+Eligible conversations initiated through **Click-to-WhatsApp advertisements** can benefit from a free-entry-point messaging window of up to **seven days**, subject to Meta's eligibility requirements.
 
-Messages delivered within an eligible free entry point window continue to be free under Meta's applicable rules.
+For conversations initiated through a **Facebook Page call-to-action button**, the free-entry-point window remains 72 hours under the currently documented rules.
 
-For businesses already using Meta Ads, this makes Click-to-WhatsApp an important consideration when designing customer acquisition journeys.
+Messages sent during a qualifying free-entry-point window are exempt from standard Meta messaging charges. However, advertising costs for Click-to-WhatsApp campaigns still apply.
+
+For businesses using Meta Ads, this makes Click-to-WhatsApp an important consideration when planning customer acquisition and messaging journeys.
 
 ***
 
@@ -427,7 +433,11 @@ The change is that Service messages become subject to per-message pricing after 
 
 <summary>Are Click-to-WhatsApp conversations still free?</summary>
 
-Eligible conversations initiated through Click-to-WhatsApp ads or Facebook Page call-to-action buttons continue to benefit from Meta's **72-hour free entry point window**.
+Yes. Eligible conversations initiated through Click-to-WhatsApp ads can benefit from a free messaging window of up to seven days, subject to Meta's eligibility requirements.
+
+Conversations initiated through Facebook Page call-to-action buttons generally retain a 72-hour free-entry-point window.
+
+Standard Meta messaging charges apply outside the qualifying free-entry-point window.
 
 </details>
 
@@ -477,4 +487,6 @@ For the latest information on WhatsApp Business Platform pricing, message catego
 
 You can also review or [add the payment method](../../../starting-with-seampify/setting-up-payment-method.md) associated with your Meta Business account through Meta's Billing & Payments settings.
 
-As Meta may continue to update its pricing documentation ahead of 1 October 2026, Seampify will continue monitoring these changes and update our customers where necessary.
+Meta may continue to revise its WhatsApp Business Platform pricing, message categories, and billing requirements. Seampify will continue monitoring relevant updates and sharing important changes with our customers.
+
+For the latest pricing information, refer to [Meta's official WhatsApp Business Platform pricing page](https://whatsappbusiness.com/products/platform-pricing/).

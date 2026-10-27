@@ -7,9 +7,7 @@ Placing business-initiated calls is charged based on:
 
 A valid payment method is required to place calls.
 
-**Note:** Call permission request template messages are subject to [messaging charges](../conversation-through-whatsapp-cloud-api/whatsapp-conversation-based-pricing/)
-
-
+**Note:** Call permission request template messages are subject to [messaging charges](../conversation-through-whatsapp-cloud-api-1/whatsapp-conversation-based-pricing/)
 
 ## Volume-Based Pricing (VBP) Rate card <a href="#volume-based-pricing--vbp--rate-card" id="volume-based-pricing--vbp--rate-card"></a>
 
@@ -25,7 +23,7 @@ Cost per minute in USD on the WhatsApp Business Platform, effective April 1, 202
 [Click to view the Meta rate card.](https://developers.facebook.com/documentation/business-messaging/whatsapp/calling/pricing)
 {% endhint %}
 
-### Example Charges&#x20;
+### Example Charges
 
 Meta charges your call **every 6 seconds**, not per second or per full minute.\
 Each 6-second block is called a **pulse**.
@@ -37,8 +35,6 @@ Example:
 * If your call lasts **20 seconds**, you are charged for **24 seconds**
 
 So the system always **rounds up** to the next 6-second block.
-
-
 
 Here's an example calculation for the Business-initiated Calls to a Malaysia country code number:
 
@@ -56,7 +52,7 @@ Cost: 0.0435 × 4 = **MYR 0.174**
 Available since October 1, 2024
 {% endhint %}
 
-Currently, when a WhatsApp user messages you, a [24-hour timer called a customer service window](../conversation-through-whatsapp-cloud-api/understanding-24-hour-customer-service-window.md) begins, or refreshes.
+Currently, when a WhatsApp user messages you, a [24-hour timer called a customer service window](../conversation-through-whatsapp-cloud-api-1/understanding-24-hour-customer-service-window.md) begins, or refreshes.
 
 When you are within the window, your business is allowed to send any type of message to the WhatsApp user, which is otherwise not allowed.
 

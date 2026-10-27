@@ -16,9 +16,7 @@ Below are the options you can filter by:
 
 Once a filter has set, click <img src="../../.gitbook/assets/image (173).png" alt="" data-size="original"> button to apply the filter settings or <img src="../../.gitbook/assets/image (174).png" alt="" data-size="original">button to reset the settings.
 
-
-
 ## Quick Filters
 
-* <img src="../../.gitbook/assets/image (177).png" alt="" data-size="line">**Pinned Contacts** - Click to filter conversations that have been pinned.
+* <img src="../../.gitbook/assets/image (175).png" alt="" data-size="line">**Pinned Contacts** - Click to filter conversations that have been pinned.
 * <img src="../../.gitbook/assets/image (179).png" alt="" data-size="line"> **Mentions** - Click to view conversations where your logged-in user was mentioned.

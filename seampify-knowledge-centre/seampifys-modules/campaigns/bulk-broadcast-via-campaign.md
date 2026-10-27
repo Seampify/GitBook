@@ -1,14 +1,12 @@
 # Bulk Broadcast via Campaign
 
-
-
 {% embed url="https://youtu.be/D1QFtVGb98E" %}
 
 Follow the steps below to create a campaign and send a template message to multiple contacts at once.
 
 {% stepper %}
 {% step %}
-### Start a Campaign  <a href="#start-a-campaign" id="start-a-campaign"></a>
+### Start a Campaign <a href="#start-a-campaign" id="start-a-campaign"></a>
 
 Go to the **Campaign module**. Then, click on "+ **Create Campaign"**
 
@@ -40,13 +38,9 @@ With WhatsApp, you can broadcast at any time, whereas on Facebook and Instagram,
 
 Here, you can upload your contact list using CSV file or Filter Existing Database.
 
-
-
 **Upload Contacts:**
 
 * Click <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FtL3npYtDC0kw9OqAV9yC%2Fimage.png?alt=media&#x26;token=346afded-38a2-4896-a0f2-f78b5fc6f74a" alt="" data-size="line"> then fill up the informations.
-
-
 
 **Filter Existing Database**:
 
@@ -55,13 +49,9 @@ Here, you can upload your contact list using CSV file or Filter Existing Databas
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FlFNDhkdVi9YeVClJ9sNS%2Fimage.png?alt=media&#x26;token=5515d59f-f5ce-4bb0-9539-3238d4f04b24" alt=""><figcaption></figcaption></figure>
 
-
-
 **Default Behavior:**
 
 * If no filters are applied, the broadcast will be sent to **all contacts** in the system.
-
-
 
 After setting the filters, click "Submit" to apply them. The filtered contacts based on your selected criteria will appear at the bottom. If everything looks correct, click "Next" to proceed.
 {% endstep %}
@@ -69,7 +59,7 @@ After setting the filters, click "Submit" to apply them. The filtered contacts b
 {% step %}
 ### Select Template <a href="#select-template" id="select-template"></a>
 
-Choose the template that was approved by Meta from the dropdown menu. You can also create a new one by click "Create Template" and it will direct you to [Template Message page.](https://app.gitbook.com/o/MNzhJNa8nN0i1qjwYR8P/s/TDj39bRN1xx5RG7VtqzP/~/changes/17/starting-with-seampify/sending-messages/~/overview#step-1-create-template-messages)​
+Choose the template that was approved by Meta from the dropdown menu. You can also create a new one by click "Create Template" and it will direct you to [Template Message page.](https://app.gitbook.com/s/TDj39bRN1xx5RG7VtqzP/starting-with-seampify/sending-messages#step-1-create-template-messages)​
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FTDj39bRN1xx5RG7VtqzP%2Fuploads%2FoSGW0b22o2Fd7P60jYSY%2Fimage.png?alt=media&#x26;token=f9adafe8-ca56-4764-9350-b0b56d331519" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +90,7 @@ You can only select a maximum 5 contacts for test send and the selected test sen
 
 Check to ensure the details are all correct, then select your broadcast timing:
 
-1. **Immediately:** Selecting this option will send the campaign to the selected contacts immediately after you click the button.&#x20;
+1. **Immediately:** Selecting this option will send the campaign to the selected contacts immediately after you click the button.
 2. **Set Schedule:** This option allows you to set a specific time for the campaign. The message will be sent to the selected contacts once the scheduled time arrives.
 3. **Periodic (New Feature)**\
    Automate recurring broadcasts by setting a repeating schedule:
@@ -162,4 +152,3 @@ Click **Send Now** once done and a new campaign will be created.
 {% hint style="info" %}
 As a reminder, it is recommended to send messages to users who have [opted-in](https://developers.facebook.com/docs/whatsapp/overview/getting-opt-in) to receiving messages from you.
 {% endhint %}
-

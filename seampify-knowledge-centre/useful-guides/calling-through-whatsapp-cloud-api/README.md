@@ -16,7 +16,7 @@ Before you get started with the Calling API, ensure that:
 {% step %}
 Go to Settings > Channels or [https://waba.seampify.com/settings/channels](https://waba.seampify.com/settings/channels). Then, click on the **General Settings** button of the Cloud API channel
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -40,11 +40,9 @@ The WhatsApp Business Calling API offers a number of features that affect when a
 
 This is the master function to enable or disable voice calls in your WhatsApp Account (WABA).
 
-
-
 ### Allow people to request a callback for missed calls
 
-When this is enabled, customer is able to request for a callback if you have missed the calls.&#x20;
+When this is enabled, customer is able to request for a callback if you have missed the calls.
 
 {% hint style="warning" %}
 The [Availaible call hours](./#available-call-hours) need to be set up for thos to work.
@@ -52,9 +50,9 @@ The [Availaible call hours](./#available-call-hours) need to be set up for thos 
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-### Display call buttons&#x20;
+### Display call buttons
 
-When Calling API features are enabled for a business number, you can still choose whether to show the call button icon or not by using the Display call buttons function.&#x20;
+When Calling API features are enabled for a business number, you can still choose whether to show the call button icon or not by using the Display call buttons function.
 
 {% hint style="info" %}
 Note: Disabling call button icon visibility does not disable a WhatsApp user’s ability to make calls to your business.
@@ -76,8 +74,6 @@ Your business can still send interactive messages or template messages with a Ca
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### **Available call hours**
 
 With the Available call hours setting, you can specify the timezone, business operating hours, and holiday schedules that will be enforced for all user-initiated calls.
@@ -96,16 +92,14 @@ You can configure the call permission UI to automatically show in the WhatsApp u
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## Step 3: Make and receive calls
 
 Cloud API Calling offers two call initiation paths:
 
-[**User-initiated calls:** ](user-initiated-calls.md)\
+[**User-initiated calls:**](user-initiated-calls.md)\
 Calls that are made from a WhatsApp user to your business\
 \
-[**Business-initiated calls:** ](business-initiated-calls.md)\
+[**Business-initiated calls:**](business-initiated-calls.md)\
 Calls that are made from your business to a WhatsApp user<br>
 
 ## Availability

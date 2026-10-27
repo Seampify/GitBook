@@ -2,7 +2,7 @@
 
 ## Understanding Messaging Limit
 
-Messaging limits are the maximum number of [business-initiated conversations](../conversation-through-whatsapp-cloud-api/understanding-whatsapp-message-template/) (conversations opened as a result of sending a marketing, utility, or authentication template to a WhatsApp user) a business phone number can open in a 24-hour moving period.
+Messaging limits are the maximum number of [business-initiated conversations](../conversation-through-whatsapp-cloud-api-1/understanding-whatsapp-message-template/) (conversations opened as a result of sending a marketing, utility, or authentication template to a WhatsApp user) a business phone number can open in a 24-hour moving period.
 
 <figure><img src="../../.gitbook/assets/image (884).png" alt=""><figcaption><p>Messaging Limit Overview</p></figcaption></figure>
 
@@ -16,8 +16,6 @@ Messaging limits are the maximum number of [business-initiated conversations](..
 In any of the above tiers, businesses can reply to **unlimited user-initiated conversations**
 {% endhint %}
 
-
-
 ## Increasing Messaging Limits <a href="#increasing_messaging_limits" id="increasing_messaging_limits"></a>
 
 Business phone numbers are initially limited to 250 business-initiated conversations in a 24-hour moving period, but this limit can be increased.
@@ -29,12 +27,10 @@ Messaging limits are **not automatically increased**. Meta will analyze the mess
 * To upgrade out of Sandbox Tier, you need to send messages to 1,000+ unique contacts within a rolling 30-day period or verify your Meta Business Verification anytime.
 * Once a business is in Tier 1, the business’s phone number will be upgraded to the next tier if:
   * your phone number status is **Connected**
-  * your phone number quality rating is  is **Medium** or **High**&#x20;
+  * your phone number quality rating is is **Medium** or **High**
   * in the last 7 days you have initiated X or more conversations with unique customers, where X is your current messaging limit divided by 2
 
 If your business phone number meets all conditions above, the messaging limit will increase by one level, 24 hours later.
-
-
 
 Here's an example of messaging limit increased from Tier 1 (2K) to Tier 2 (10K) in 2 days:
 
@@ -46,8 +42,6 @@ Here's an example of messaging limit increased from Tier 1 (2K) to Tier 2 (10K) 
 
 \* If the 2,000th conversation is opened at 1pm (for example), the messaging limit is increased at 7pm on the same day (i.e. 6 hours later).
 
-
-
 Here's another example of messaging limit increased from Tier 1 (2K) to Tier 2 (10K) in 4 days:
 
 |                                                        | Day 1 | Day 2 | Day 3 | Day 4 |
@@ -56,9 +50,7 @@ Here's another example of messaging limit increased from Tier 1 (2K) to Tier 2 (
 | Business-initiated conversations opened in last 7 days | 200   | 500   | 800\* | 500   |
 | Messaging limit                                        | 2K    | 2K    | 2K    | 10K   |
 
-\* If the 2,000th conversation is initiated at 3pm (for example), the messaging limit is increased at 9pm the same day (i.e. 6 hours later).&#x20;
-
-
+\* If the 2,000th conversation is initiated at 3pm (for example), the messaging limit is increased at 9pm the same day (i.e. 6 hours later).
 
 ## Checking Your Limit <a href="#checking-your-limit" id="checking-your-limit"></a>
 

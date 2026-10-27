@@ -6,8 +6,6 @@ Here, it will shows the list of channels that you have connected, allowing you t
 
 To add a new channel(s) from here, refer to [Connecting to a Channels.](../connecting-to-a-channels/#create-a-channel)
 
-
-
 ## Accessing to a Connected Channels' Settings
 
 Here, you will see a list of setting options for Cloud API channel:
@@ -32,8 +30,6 @@ Here, you will see a list of setting options for Cloud API channel:
 [manage-profile.md](manage-profile.md)
 {% endcontent-ref %}
 
-
-
 ## Edit Channel
 
 Click on the Edit button to open its settings.
@@ -44,27 +40,21 @@ Here, you can change Channel Name and add Webhook URL. Click **Save** once done.
 
 <figure><img src="../../../../.gitbook/assets/image (684).png" alt="" width="554"><figcaption></figcaption></figure>
 
-
-
 ## Mark as Default Channel
 
 If you wish to mark a channel as default, click on the down down menu and select **Mark as Default**. This will ensure the default channel is always the primary in the option list.
 
 <figure><img src="../../../../.gitbook/assets/image (685).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ## Accessing WhatsApp Manager
 
-From Channels window, you are able to access to the connected WhatsApp Manager. Simply click on the down down menu and select **Open WhatsApp Manager**.&#x20;
+From Channels window, you are able to access to the connected WhatsApp Manager. Simply click on the down down menu and select **Open WhatsApp Manager**.
 
 <figure><img src="../../../../.gitbook/assets/image (686).png" alt="" width="563"><figcaption></figcaption></figure>
 
 This will brings you to the WhatsApp Manager in your business portfolio that looks like the below. Here, you can view your number status, quality and messaging limit.
 
-<figure><img src="../../../../.gitbook/assets/image (688).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (687).png" alt=""><figcaption></figcaption></figure>
 
 ## Delete a Channel
 

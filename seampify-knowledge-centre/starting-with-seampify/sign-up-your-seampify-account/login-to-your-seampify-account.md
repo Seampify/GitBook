@@ -9,8 +9,6 @@ description: >-
 
 If you already have an account, follow the instructions below to log in.
 
-
-
 ## _**Step 1: Log In to Your Account**_
 
 * Open your web browser and visit [**https://waba.seampify.com/**](https://waba.seampify.com/auth/login)
@@ -24,7 +22,7 @@ If you already have an account, follow the instructions below to log in.
 If you forgot password, click [Forget Password](reset-your-seampify-password.md#reset-password-from-login-page)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-12-09 214536 (1).png" alt="" width="235"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-12-09 214536.png" alt="" width="235"><figcaption></figcaption></figure>
 
 ## _Step 2: Access the Seampify Dashboard_
 

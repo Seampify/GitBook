@@ -2,11 +2,9 @@
 
 {% embed url="https://youtu.be/3IHbSdnsZ1I" %}
 
-Message Templates are used to initiate a conversations after the [24-hour Customer Service Window](../../../../../useful-guides/conversation-through-whatsapp-cloud-api/understanding-24-hour-customer-service-window.md).
+Message Templates are used to initiate a conversations after the [24-hour Customer Service Window](../../../../../useful-guides/conversation-through-whatsapp-cloud-api-1/understanding-24-hour-customer-service-window.md).
 
-
-
-To access the Message Template for the Cloud API WhatsApp Channel, go to **Settings** → **Channels** →  then click on the **Manage Templates** tab under the Channel.
+To access the Message Template for the Cloud API WhatsApp Channel, go to **Settings** → **Channels** → then click on the **Manage Templates** tab under the Channel.
 
 <figure><img src="../../../../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +22,7 @@ The options available are under the ![](<../../../../../.gitbook/assets/image (1
 * **Edit the Message Template** <img src="../../../../../.gitbook/assets/image (620).png" alt="" data-size="line">
 * **Duplicate the Message Template** <img src="../../../../../.gitbook/assets/image (621).png" alt="" data-size="line">
 * **Copy Template JSON** <img src="../../../../../.gitbook/assets/image (622).png" alt="" data-size="line">
-* **Create Automation Workflow** ![](<../../../../../.gitbook/assets/image (162).png>) - You can directly create an automation based on the template message that you have setup. A more straightforward method compared to using callback IDs. \
+* **Create Automation Workflow** ![](<../../../../../.gitbook/assets/image (162).png>) - You can directly create an automation based on the template message that you have setup. A more straightforward method compared to using callback IDs.\
   You may find a guide to set this up through - [here](create-automation-from-templates.md).
 * **View insights** <img src="../../../../../.gitbook/assets/image (623).png" alt="" data-size="line"> - Hover over the template message to view the Template Analytics where you can check on the send status and read status by date range as well as the amount spen&#x74;**.**
 
@@ -47,8 +45,8 @@ A Create Message Template popup will come in.
 Overview of Create Message Template popup:
 
 * **Name -** Define Template Name. Each Template Name is unique, this means you are unable to create more than one template with the same name.
-* **Category** - Select between Marketing, Utility or Authentication. [Check out Message Template to learn more.](../../../../../useful-guides/conversation-through-whatsapp-cloud-api/understanding-whatsapp-message-template/#types-of-message-template)
-* **Language -** Choose language. Ensure you select the language in which you'll add the body text. Otherwise, it will be rejected.&#x20;
+* **Category** - Select between Marketing, Utility or Authentication. [Check out Message Template to learn more.](../../../../../useful-guides/conversation-through-whatsapp-cloud-api-1/understanding-whatsapp-message-template/#types-of-message-template)
+* **Language -** Choose language. Ensure you select the language in which you'll add the body text. Otherwise, it will be rejected.
 
 {% hint style="danger" %}
 You can add another language in your content, but it must not exceed 50% of the chosen language. If it does, it may be rejected.
@@ -82,8 +80,6 @@ You will see the newly created template message in the page and the status will 
 {% endstep %}
 {% endstepper %}
 
-
-
 ### Types of Headers in Message Template <a href="#step-2-perform-a-campaign" id="step-2-perform-a-campaign"></a>
 
 If you choose Header type as **Text**, you may add a bolded text before your body text.
@@ -91,8 +87,6 @@ If you choose Header type as **Text**, you may add a bolded text before your bod
 If you choose Header type as **Image**, **Video**, or **Document**, you need to upload a sample file to help Meta verify the use. It should be a sample file, not an original Image, Video, or Document detailing your contact.
 
 <figure><img src="../../../../../.gitbook/assets/image (626).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ### Using Variable in Message Template <a href="#step-2-perform-a-campaign" id="step-2-perform-a-campaign"></a>
 
@@ -106,8 +100,6 @@ For instance, if you'd replace the variable placeholder with the contact's name,
 If you set body text as, "_Hi \{{1\}}, your parcel is on the way to you_," and Example content for \{{1\}} as "_Name_," then while sending the template message to the contact, replace variable to contact's name. The template body text would be, "_Hi **Alex,** your parcel is on the way to you._"
 {% endhint %}
 
-
-
 ### Footer in Message Template
 
 If you'd like to add a Footer to the template, you can do that in the Footer Field, which is optional.
@@ -116,15 +108,13 @@ If you'd like to add a Footer to the template, you can do that in the Footer Fie
 For **marketing messages**, Meta recommends adding an unsubscribe option. To do so, include this in the footer by typing: **Reply "STOP" to unsubscribe.** This will automatically remove the contact from your future broadcast list. Refer to the [Broadcast Subscription Automation Guide](../../../../automations/import-automation-template/#broadcast-subscription-automation-guide).
 {% endhint %}
 
-
-
 ### Button(s) in Message Template
 
 After the footer, you get the option to add buttons to your message template. The template support adding two types of buttons: **Call to Action** and **Quick Reply**.
 
 <figure><img src="../../../../../.gitbook/assets/image (627).png" alt="" width="225"><figcaption></figcaption></figure>
 
-The Call to Action button lets you further add 2 buttons:&#x20;
+The Call to Action button lets you further add 2 buttons:
 
 * **Call Phone Number** - direct user to call the number using telco line from their mobile.
 * **Visit Website** - direct user to an external website.
@@ -134,8 +124,6 @@ The Call to Action button lets you further add 2 buttons:&#x20;
 And the Quick Reply button lets you add up to 10 buttons for the selected purpose.
 
 <figure><img src="../../../../../.gitbook/assets/image (629).png" alt="" width="563"><figcaption></figcaption></figure>
-
-
 
 ## Sending a Message Template
 

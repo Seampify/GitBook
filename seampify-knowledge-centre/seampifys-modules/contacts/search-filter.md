@@ -5,12 +5,12 @@ Here, you can search your contact by Name, Number, or Advance Filter via Contact
 <figure><img src="../../.gitbook/assets/image (251).png" alt="" width="317"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-If you did not see this options on your page,  refresh the page to load it.
+If you did not see this options on your page, refresh the page to load it.
 {% endhint %}
 
 ## Advanced Filters
 
-Click <img src="../../.gitbook/assets/image (252).png" alt="" data-size="line"> button to access the filter options.&#x20;
+Click <img src="../../.gitbook/assets/image (252).png" alt="" data-size="line"> button to access the filter options.
 
 <figure><img src="../../.gitbook/assets/image (253).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ First, you need to select the Field on the basis you want to filter the contacts
 
 <img src="../../.gitbook/assets/image (254).png" alt="" data-size="original">
 
-These are the default Fields for each account. If you wish to search from any different field, you will need to add a new Contact Fields and ensure Search Allowed? is allowed.&#x20;
+These are the default Fields for each account. If you wish to search from any different field, you will need to add a new Contact Fields and ensure Search Allowed? is allowed.
 {% endstep %}
 
 {% step %}
@@ -58,13 +58,11 @@ After adding the values in the fields, click **Submit**. And this will show the 
 {% endstep %}
 {% endstepper %}
 
-If you want to add more filters, you can click the Plus button icon![](https://docs.rampwin.com/~gitbook/image?url=https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhElFPtMZjXYjDDMBT5q2%252Fuploads%252FoE2EyOVPDpc66qENDOoB%252FPlus%2520Button%2520Icon%2520for%2520Contacts%2520Filter.png%3Falt%3Dmedia%26token%3D08d0c77d-5907-4c10-8f11-269ce5ddf9b6\&width=40\&dpr=4\&quality=100\&sign=b22d5b09\&sv=2).&#x20;
+If you want to add more filters, you can click the Plus button icon![](https://docs.rampwin.com/~gitbook/image?url=https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FhElFPtMZjXYjDDMBT5q2%252Fuploads%252FoE2EyOVPDpc66qENDOoB%252FPlus%2520Button%2520Icon%2520for%2520Contacts%2520Filter.png%3Falt%3Dmedia%26token%3D08d0c77d-5907-4c10-8f11-269ce5ddf9b6\&width=40\&dpr=4\&quality=100\&sign=b22d5b09\&sv=2).
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt="" width="563"><figcaption></figcaption></figure>
 
 To delete a Filter , you can click the Delete button <img src="../../.gitbook/assets/image (260).png" alt="" data-size="line">.
-
-
 
 Or, if you want to add another filter group, click <img src="../../.gitbook/assets/image (257).png" alt="" data-size="line">
 
@@ -72,6 +70,4 @@ Or, if you want to add another filter group, click <img src="../../.gitbook/asse
 
 To delete a Filter Group, you can click the <img src="../../.gitbook/assets/image (259).png" alt="" data-size="line"> button associated with that group.
 
-
-
-And to reset all the filters, simply click <img src="../../.gitbook/assets/image (265).png" alt="" data-size="line">.
+And to reset all the filters, simply click <img src="../../.gitbook/assets/image (263).png" alt="" data-size="line">.

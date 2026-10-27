@@ -6,20 +6,18 @@ description: >-
 
 # Importing Automations for E-commerce
 
-✅ Flow of this Automation:&#x20;
+✅ Flow of this Automation:
 
 When a customer messages your WhatsApp, they’re greeted with a welcome message offering options to browse products, view special offers, or talk to support. If they choose to browse, they can explore product categories from your WhatsApp Catalog and place orders directly. If they don’t respond or don’t place an order, the bot follows up after 30 minutes with a reminder and gives them the option to speak to support or end the session. If there's still no reply, the conversation is automatically handed over to a team member, ensuring a smooth and complete customer experience from start to finish.<br>
 
 ### ✅ **Before You Start**
 
-📌 **Make sure your WhatsApp Catalog is already set up via Facebook Commerce Manager,** [Click to learn more on this.](catalogue-settings.md) \
+📌 **Make sure your WhatsApp Catalog is already set up via Facebook Commerce Manager,** [Click to learn more on this.](catalogue-settings.md)\
 📌 Add Products in [Ecommerce](products/#step-1-navigate-to-the-products-tab)**.**
-
-
 
 ## 🔧 **Step 1: Import the Automation**
 
-1. Go to Automation > Import Automation Template&#x20;
+1. Go to Automation > Import Automation Template
 
 <figure><img src="../../.gitbook/assets/image (860).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,21 +46,19 @@ When a customer messages your WhatsApp, they’re greeted with a welcome message
 
 * Double click on this node
 * Change the message text to include your **store name** and a custom greeting.
-* Edit button titles:&#x20;
+* Edit button titles:
 
-&#x20;         \- “Browse Products” → “Shop Now”
+\- “Browse Products” → “Shop Now”
 
-&#x20;         \- “Special Offers” → “Weekly Deals”
+\- “Special Offers” → “Weekly Deals”
 
-&#x20;         \- “Talk to Support” → “Live Chat”
+\- “Talk to Support” → “Live Chat”
 
 * Once made changes, click **Update Node** to save
 
-
-
 2. **Edit Catalog Categories**
 
-<figure><img src="../../.gitbook/assets/image (865).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (864).png" alt=""><figcaption></figcaption></figure>
 
 * Double-click the **Category Selection Node** (e.g., Men, Women, Kids).
 * Update, rename, or remove categories as needed.
@@ -71,8 +67,6 @@ When a customer messages your WhatsApp, they’re greeted with a welcome message
 {% hint style="warning" %}
 You can only have up to 10 options in this node. If you wish to have more than 10 options, kindly contact our Support Specialist to guide you to use a WhatsApp Form or any other method.
 {% endhint %}
-
-
 
 ## 🛒 **Step 3: Add Products from Your Catalog**
 
@@ -84,7 +78,7 @@ You can only have up to 10 options in this node. If you wish to have more than 1
 
 From this node, you will see the options of Message Type as shown above. You can show your products to customer in **two ways**:
 
-**🛍 Single Product**&#x20;
+**🛍 Single Product**
 
 * Use this if you want to show **one product only**.
 * Double-click the product node.
@@ -92,7 +86,7 @@ From this node, you will see the options of Message Type as shown above. You can
 
 <figure><img src="../../.gitbook/assets/Recording2025-06-30191549-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-**🛒 Multi-Product**&#x20;
+**🛒 Multi-Product**
 
 Use this to display a list of products grouped by categories.
 
@@ -131,8 +125,6 @@ You can have up to 30 products in a Multi-Product catalog
    1. In the last box (labeled **Assign To Team Member**), choose the team member or support role you want incoming chats to be routed to.
    2. This ensures the customer is connected to a live agent after the fallback steps.
 3. **Click Save** once all editing is done and you may test your automation accordingly.
-
-
 
 ## **Step 4: Import Checkout Automation**
 

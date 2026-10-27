@@ -13,8 +13,6 @@ To receive sound notifications for new incoming messages on desktop, you need to
 For Master User, you will need to assign the conversation to yourself to receive sound notifications on desktop and message notifications on the mobile app.
 {% endhint %}
 
-
-
 ## Steps to Auto Assign to User
 
 1. Navigate to the Automation section.
@@ -28,7 +26,7 @@ For Master User, you will need to assign the conversation to yourself to receive
 
 <figure><img src="../../../.gitbook/assets/image (756).png" alt=""><figcaption></figcaption></figure>
 
-6. Click on " <img src="../../../.gitbook/assets/image (759).png" alt="" data-size="line"> " to add the template to your automation settings.
+6. Click on " <img src="../../../.gitbook/assets/image (758).png" alt="" data-size="line"> " to add the template to your automation settings.
 
 <figure><img src="../../../.gitbook/assets/Recording2025-01-06105545-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
@@ -51,7 +49,7 @@ For Master User, you will need to assign the conversation to yourself to receive
     * Assigns evenly among users with the selected **Role**.
     * You must define roles under **Settings > Roles**.
 
-    **Option C: Assign Department wise (Round Robin Method)**&#x20;
+    **Option C: Assign Department wise (Round Robin Method)**
 
     * Assigns conversations to users in a selected **Department**.
     * Make sure you’ve set up Departments in **Settings > Departments**.
@@ -65,5 +63,5 @@ For Master User, you will need to assign the conversation to yourself to receive
       * Reassigns chat even if it was previously assigned.
 
 6. Click "**Update Node"** to apply the changes.
-7. Click "![](<../../../.gitbook/assets/image (761).png>)" to ensure all changes are saved&#x20;
+7. Click "![](<../../../.gitbook/assets/image (761).png>)" to ensure all changes are saved
 8. Make sure the automation is active by clicking the "![](<../../../.gitbook/assets/image (762).png>)" button if it is currently paused.

@@ -18,7 +18,7 @@ This will open the Create Automation Workflow modal with the options as -
 {% step %}
 ### Define a Name
 
-In the Create Automation Workflow modal, first, you need to define a name for the automation.&#x20;
+In the Create Automation Workflow modal, first, you need to define a name for the automation.
 {% endstep %}
 
 {% step %}
@@ -32,7 +32,7 @@ Then, select a Channel from the available options.
 {% step %}
 ### Select Event
 
-After selecting the Channel, you need to pick an Event to trigger the automation.&#x20;
+After selecting the Channel, you need to pick an Event to trigger the automation.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (220).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
@@ -45,7 +45,7 @@ If you have integrated with marketplace, you will see more options here. By defa
 * **Conversation Closed** - Automation is triggered when you or your teammate changes the conversation status to "Closed."
 * **When A Tag is Added** - Automation is triggered when you add a tag to a contact.
 * **When A Tag is Removed** - Automation is triggered when you remove a tag from a contact.
-* **Webhook Received** - Automation is triggered when a webhook is received on the selected channel.&#x20;
+* **Webhook Received** - Automation is triggered when a webhook is received on the selected channel.
 
 Each Event has a different set of conditions. Learn more about [Events](events.md) and [Trigger Conditions](trigger-conditions.md) in the next step.
 {% endstep %}
@@ -57,8 +57,6 @@ Select <img src="../../../.gitbook/assets/image (221).png" alt="" data-size="lin
 {% endstep %}
 {% endstepper %}
 
-
-
 ## Step 2: Building a Workflow
 
 Once you have setup the Automation Workflow settings, you will goes to the Automation window. By default, each automation will have one Trigger node.
@@ -66,7 +64,7 @@ Once you have setup the Automation Workflow settings, you will goes to the Autom
 <figure><img src="../../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Click the <img src="../../../.gitbook/assets/image (223).png" alt="" data-size="line">  **pause button** to deactivate the automation while building it. This ensures the automation won’t accidentally trigger before it’s ready.
+Click the <img src="../../../.gitbook/assets/image (223).png" alt="" data-size="line"> **pause button** to deactivate the automation while building it. This ensures the automation won’t accidentally trigger before it’s ready.
 {% endhint %}
 
 {% stepper %}
@@ -83,7 +81,7 @@ Based on your selected Event in step 1, you get the list of Trigger Conditions. 
 {% step %}
 ### Add Steps
 
-To add Workflow Steps, click the <img src="../../../.gitbook/assets/image (224).png" alt="" data-size="line"> **lighting button** to access Action types. This will open the Workflow Steps modal with all the step types. Simply select your desire Action nodes from the list and drag and drop to the workflow window.&#x20;
+To add Workflow Steps, click the <img src="../../../.gitbook/assets/image (224).png" alt="" data-size="line"> **lighting button** to access Action types. This will open the Workflow Steps modal with all the step types. Simply select your desire Action nodes from the list and drag and drop to the workflow window.
 
 <div align="left"><figure><img src="../../../.gitbook/assets/action.gif" alt=""><figcaption></figcaption></figure></div>
 
@@ -113,7 +111,7 @@ Connect the Action nodes by clicking on the <img src="../../../.gitbook/assets/i
 {% step %}
 ### Add More Action Step
 
-To add more Action nodes, repeat the steps and choose the desire Action nodes from the list and drag and drop to the workflow window.&#x20;
+To add more Action nodes, repeat the steps and choose the desire Action nodes from the list and drag and drop to the workflow window.
 {% endstep %}
 
 {% step %}
@@ -122,7 +120,7 @@ To add more Action nodes, repeat the steps and choose the desire Action nodes fr
 Once your workflow is done, click on the <img src="../../../.gitbook/assets/image (228).png" alt="" data-size="line"> button.
 
 {% hint style="info" %}
-Remember to click the <img src="../../../.gitbook/assets/image (230).png" alt="" data-size="line"> button to activate the Automation.&#x20;
+Remember to click the <img src="../../../.gitbook/assets/image (229).png" alt="" data-size="line"> button to activate the Automation.
 
 It is recommended to test your Automation before publishing. [Learn more here](testing-your-automation.md)
 {% endhint %}

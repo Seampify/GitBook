@@ -6,8 +6,6 @@ If you’ve forgotten your password, there are 3 ways to reset it and regain acc
 * [Reset Password from Personal Settings](reset-your-seampify-password.md#reset-password-from-personal-settings)
 * [Reset Password for Teams](reset-your-seampify-password.md#reset-password-for-teams)
 
-
-
 ## **Reset Password from Login Page**
 
 ### _**Step 1: Access the Forgot Password Page**_
@@ -44,8 +42,6 @@ On the Forgot Password page:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-12-11 161844.png" alt="" width="353"><figcaption></figcaption></figure>
 
-
-
 ### _**Step 5: Access the Reset Password Page**_
 
 * After clicking the link, you will be redirected to the **Reset Password** page, where you can create a new password.
@@ -60,7 +56,7 @@ On the password reset page:
   * <mark style="color:red;">Use alphanumeric characters.</mark>
   * <mark style="color:red;">Include at least one special character.</mark>
   * <mark style="color:red;">Use at least one capital letter.</mark>
-  * <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;"></mark><mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
+  * <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
 * Confirm the new password by re-entering it.
 * Click the **"Reset My Password"** button.
 
@@ -73,8 +69,6 @@ On the password reset page:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-12-10 150131.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
 ## **Reset Password from Personal Settings**
 
 If you wish to reset your password, you may perform this at Personal Settings section.
@@ -83,7 +77,7 @@ If you wish to reset your password, you may perform this at Personal Settings se
 {% step %}
 Go to Settings module and select Security & Password
 
-<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -92,7 +86,7 @@ Enter your old password on top, then enter a new password following these guidel
 * <mark style="color:red;">Use alphanumeric characters.</mark>
 * <mark style="color:red;">Include at least one special character.</mark>
 * <mark style="color:red;">Use at least one capital letter.</mark>
-* <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;"></mark><mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
 {% endstep %}
 
 {% step %}
@@ -100,11 +94,9 @@ Click Change Password once done.
 {% endstep %}
 {% endstepper %}
 
-
-
 ## **Reset Password for Teams**
 
-As the master user, you are able to reset the password for your team member.&#x20;
+As the master user, you are able to reset the password for your team member.
 
 {% hint style="warning" %}
 This step is only able to perform by the Master User. If you wish to reset the password for Master User, kindly contact Seampify's customer support.
@@ -129,7 +121,7 @@ Enter a new password following these guidelines:
 * <mark style="color:red;">Use alphanumeric characters.</mark>
 * <mark style="color:red;">Include at least one special character.</mark>
 * <mark style="color:red;">Use at least one capital letter.</mark>
-* <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;"></mark><mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
+* <mark style="color:red;">Ensure a minimum length of</mark> <mark style="color:red;">**13 characters**</mark><mark style="color:red;">.</mark>
 
 <figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
