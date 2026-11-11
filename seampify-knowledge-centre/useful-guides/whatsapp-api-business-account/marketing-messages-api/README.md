@@ -65,7 +65,7 @@ Click on the Configure MM Lite API button on the channel you wish to configure f
 If you have multiple WhatsApp channel, you have to perform this step for each of the channel.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -73,7 +73,7 @@ If you have multiple WhatsApp channel, you have to perform this step for each of
 
 Once clicked, a pop up will appear. Click on the Check Eligibility button
 
-<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 All Cloud API WhatsApp Account should be eligible for this except for US country's number.
@@ -87,7 +87,7 @@ If your account is eligible, Step 2 button will be clickable. Click on the Confi
 
 Click on the URL and it will direct you to your Business Portfolio's Request page. If you are not logged in, you may be prompt to log in to your Facebook Account first.
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -95,23 +95,23 @@ Click on the URL and it will direct you to your Business Portfolio's Request pag
 
 Once you are in Request page, select **Request** and accept the terms to enable MM Lite.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 A pop up will show, click on **Review** button
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 Click Continue
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 Click on Finish button to complete the process.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 A notification will appear.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -119,11 +119,11 @@ A notification will appear.
 
 Once all step is done, go back to Seampify and tick I have done all the steps as per the screenshots.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 Then, click on Check Confirmation button and an Eligible button will appear.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Once this is done, it will take up to 24 hours for Meta side to update.
@@ -135,7 +135,7 @@ Once this is done, it will take up to 24 hours for Meta side to update.
 
 Once the status is updated, you will no longer see the MM Lite button on the channel section.
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -153,7 +153,7 @@ Here's how to access them:
 4. In the dropdown menu highlighted in red, select the option **Marketing Messages Lite API.**
 5. The **benchmark metrics** and **recommendation cards** will appear below the template preview, in the panel on the left.
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 
 

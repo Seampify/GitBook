@@ -2,11 +2,13 @@
 
 ## What is Dynamic Flow
 
-**Dynamic Flows** take WhatsApp Flows to the next level by enabling the creation of more complex and adaptive workflows. Unlike basic flows, Dynamic Flows allow for interactions with multiple possible outcomes and dynamically displayed information, making them ideal for advanced scenarios.
+**Dynamic Flows** take WhatsApp Flows to the next level by enabling the creation of more complex and adaptive workflows. Unlike basic flows, Dynamic Flows allow for interactions with multiple possible outcomes and dynamically displayed information, making them ideal for advanced scenarios.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
 
 By leveraging Dynamic Flows, businesses can create a secondary, customizable interface within WhatsApp. This replaces traditional two-way chat exchanges for collecting customer responses, offering a more structured and interactive experience. This approach is not only intuitive but also ensures seamless engagement, improving customer satisfaction and operational efficiency.
+
+
 
 ## How to create a Dynamic Flow
 
@@ -51,7 +53,7 @@ Use the **drag-and-drop** functionality to add nodes based on the details you wa
 
 <figure><img src="../../.gitbook/assets/5e902cdbd9ba45de8cdfd270aad300b22-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
-### 5. Save your Flow
+### 5.  Save your Flow
 
 * Once the flow is built, review the structure to ensure it captures all the desired details accurately.
 * Click the **"Save as Draft"** button to save your form.
@@ -59,7 +61,7 @@ Use the **drag-and-drop** functionality to add nodes based on the details you wa
 <figure><img src="../../.gitbook/assets/image (720).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-It is advisable to click Save Draft for every step.
+It is advisable to click Save Draft for every step.&#x20;
 {% endhint %}
 
 ### 6. Validate your Flow
@@ -93,14 +95,16 @@ Once your Dynamic Flow is published, you will see the final setup and details di
 
 <figure><img src="../../.gitbook/assets/image (723).png" alt=""><figcaption></figcaption></figure>
 
+
+
 ## How to Send a Dynamic Flow
 
 Dynamic Flows can be shared with your audience through two main methods:
 
-1. [Sending via Chat](dynamic-flow.md#sending-via-chat)
+1. [Sending via Chat ](dynamic-flow.md#sending-via-chat)
 2. [Sending via Automation](dynamic-flow.md#sending-via-automation)
 
-### Sending via Chat
+### Sending via Chat&#x20;
 
 1. Navigate to the **"Chat"** tab in your WhatsApp Business platform.
 2. Select the contact you want to send the message to by clicking on their name.
@@ -122,18 +126,20 @@ If a 24 Hour Customer Service window is not opened, select Send Template Message
 8. Choose the specific WhatsApp Flow you want to send by selecting the name of the flow you previously saved.
 9. Assign a **Label** to the button that the customer will see (e.g., “Start Form” or “Fill Details”).
 
-<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20242-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20243-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 10. Click **"Send"** to share the Dynamic Flow with the customer.
     * The customer will receive the message with the button and can interact with the flow directly in the chat.
 
+
+
 ### Sending via Automation
 
-Dynamic Flows can be integrated into automated workflows for seamless customer interactions.
+Dynamic Flows can be integrated into automated workflows for seamless customer interactions.&#x20;
 
 **Steps:**
 
-1. **Go to automation**
+1. **Go to automation**&#x20;
 
 * Create a new automation.
 * In the automation builder, drag and drop the **Auto Reply Buttons/Options/Products** node into your flow.
@@ -150,4 +156,4 @@ Dynamic Flows can be integrated into automated workflows for seamless customer i
 * Add a **Label** to the button (e.g., “Start Form” or “Continue”).
 * Click **Update Node** to save the changes.
 
-<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20242-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Seampify-GoogleChrome-26December20243-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
